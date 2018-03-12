@@ -63,6 +63,7 @@ function jouer(){
 function reset(){
 
     cases.forEach(el => el.innerHTML = '');
+    
 
 }
 
